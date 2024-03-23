@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小Mao同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -49,8 +49,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是小Mao同学。</p>
+<p>&emsp;&emsp;热爱编程、运动、健身。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;那些从一开始就认为，这个世界无法改变或者他改变不了这个世界的人，注定改变不了这个世界。</p>
 <p>&emsp;&emsp;<strong>Those who believe from the beginning that the world cannot be changed or that they cannot change the world are destined to be unable to change the world.</strong></p>
