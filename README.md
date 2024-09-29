@@ -20,7 +20,8 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.csdn.net/qq_61954703?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-     <a href="https://blog.csdn.net/qq_61954703?spm=1000.2115.3001.5343"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHFO_DPXjmHB4Yz66lvONPxQTa-dzNx3EWJA&s" /></a>&emsp;
+     <a href="https://blog.csdn.net/qq_61954703?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/GitLab-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-red
+" /></a>&emsp;
 <!--     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
